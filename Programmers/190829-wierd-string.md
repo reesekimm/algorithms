@@ -23,10 +23,10 @@
 
 #### 입출력 예
 
-|                       s                       |                   return                   |
-| :-------------------------------------------: | :----------------------------------------: |
-|               "try hello world"               |             "TrY HeLlO WoRlD"              |
-| "　　 A aaaa AA a a a A Aaaaaaaaaa 　 AAa 　" | "　　 A AaAa Aa A A A A AaAaAaAaAa AaA 　" |
+|                       s                       |                    return                     |
+| :-------------------------------------------: | :-------------------------------------------: |
+|               "try hello world"               |               "TrY HeLlO WoRlD"               |
+| "　　 A aaaa AA a a a A Aaaaaaaaaa 　 AAa 　" | "　　 A AaAa Aa A A A A AaAaAaAaAa 　 AaA 　" |
 
 <br />
 
