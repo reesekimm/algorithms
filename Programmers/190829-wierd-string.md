@@ -73,7 +73,7 @@ function toWeirdCase(s) {
 }
 ```
 
-인자에 `" A aaaa AA a a a A Aaaaaaaaaa AAa AAAAA "`를 대입하고 `performance.now()`를 사용해서 속도를 측정해보니 **0.76ms**가 나왔다.
+인자에 `" A aaaa AA a a a A Aaaaaaaaaa AAa AAAAA "`를 대입하고 `performance.now()`를 사용해서 코드 수행 시간을 측정해보니 **0.76ms**가 나왔다.
 
 <br />
 
