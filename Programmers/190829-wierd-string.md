@@ -162,4 +162,4 @@ function toWeirdCase(s) {
 
 코드 수행 시간 : **0.46ms**
 
-- 별도의 control flow 없이 `split`, `map`, `join`만으로 깔끔하게 처리했다b
+- 별도의 flow control 없이 `split`, `map`, `join`만으로 깔끔하게 처리했다b
