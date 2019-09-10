@@ -1,6 +1,6 @@
 ### 6kyu / Javascript
 
-# []()
+# [Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/train/javascript)
 
 ## 문제
 
