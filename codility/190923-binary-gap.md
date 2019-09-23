@@ -196,3 +196,4 @@ function solution(N) {
 
 - [JavaScript Tech Interview Exercise 2: Binary Gap Exercise in Codility](http://www.zsoltnagy.eu/javascript-tech-interview-exercise-2-binary-gap-exercise-in-codility/)
 - [codility - BinaryGap (시간복잡도 평가 추가)](https://wayhome25.github.io/algorithm/2017/04/24/binarygap/)
+- [Algorithms in plain English: time complexity and Big-O notation](https://www.freecodecamp.org/news/time-is-complex-but-priceless-f0abd015063c/#.j7h5s1m2p)
