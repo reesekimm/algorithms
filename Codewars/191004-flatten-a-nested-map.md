@@ -2,7 +2,7 @@
 
 # [Flatten a Nested Map](https://www.codewars.com/kata/52859abdf8fc1b12e0000141)
 
-## Chanllenge
+## Challenge
 
 Write a function that takes a hierarchical map of properties and converts it to a single, flattened map, with the different levels separated by a forward slash ('/').
 
@@ -106,7 +106,9 @@ function flattenMap(map, parent, result = {}) {
   for (let key in map) {
     let path = parent ? parent + "/" + key : key;
 
-    typeof map[key] === "object" && !Array.isArray(map[key]) && map[key] !== null
+    typeof map[key] === "object" &&
+    !Array.isArray(map[key]) &&
+    map[key] !== null
       ? flattenMap(map[key], path, result)
       : (result[path] = map[key]);
   }
